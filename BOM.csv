@@ -1,0 +1,8 @@
+Reference, Value, Footprint, Datasheet, Allchips number, Description, Part number, Spice_Model, Spice_Netlist_Enabled, Spice_Primitive
+"D2","LED Blue","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","https://www.brtled.com/spec/BL-HBH36D-TRC.pdf","L20186944194","0603 LED Blue","BL-HBH36D-TRC ","dc -2.8","Y","V"
+"D1","LED Super Yellow","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","https://www.brtled.com/spec/BL-HKC36P-TRB.pdf","L20186944205","0603 LED Super Yellow","BL-HKC36P-TRB","dc -2.2","Y","V"
+"R3","150","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","L20186906353","0603 Resistor","RC0603FR-07150RL","","",""
+"R2","470","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","L20186906220","0603 Resistor","RC0603JR-07470RL","","",""
+"R1","140","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","L1931804258","0603 Resistor","RC0603FR-07140RL","","",""
+"J1","Conn_01x02_Male","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+"D3","LED Gree","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","https://www.brtled.com/spec/BL-HG036D-AV-TRB.pdf","L20186944203","0603 LED Green","BL-HG036D-AV-TRB","dc -2.0","Y","V"
